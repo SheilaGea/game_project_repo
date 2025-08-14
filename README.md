@@ -1,8 +1,9 @@
 # 🧩 Sudoku Game – Python Project
+  <img src="images/sudoku.png" alt="Sudoku Icon" width="40" style="vertical-align: middle;"/>
+</h1>
 **Nod Coding Bootcamp – First Project**  
 👩‍💻 By: Sheila Géa & Jonathan Avigdor  
 
-![Sudoku Game](path/to/your/image.png)
 ---
 
 ## 📌 Overview
