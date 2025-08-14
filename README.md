@@ -2,6 +2,7 @@
 **Nod Coding Bootcamp – First Project**  
 👩‍💻 By: Sheila Géa & Jonathan Avigdor  
 
+![Sudoku Game](path/to/your/image.png)
 ---
 
 ## 📌 Overview
